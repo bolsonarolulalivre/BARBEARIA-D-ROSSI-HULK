@@ -3,9 +3,9 @@ body{
 }
 h1{
     text-align: center;
-    color: red;
+    color: rgb(66, 50, 50);
 }
 p{
   text-align: center;
-    color: blueviolet;
+    color: rgb(10, 2, 17);
 }
